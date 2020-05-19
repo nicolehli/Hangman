@@ -4,6 +4,10 @@ Python 3 command line H A N G M A N game.
 
 #### Demo
 
+<p align=center>
+  <img src="demo.gif"/>
+</p>
+
 #### My Tasks
 
 1. Menu to start/restart/quit game
